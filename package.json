@@ -1,0 +1,23 @@
+{
+  "name": "socket-collaboration",
+  "version": "0.0.1",
+  "description": "socketing for game",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "DaPeattie"
+  },
+  "keywords": [
+    "socket",
+    "game",
+    "multiplayer",
+    "collaboration",
+    "coordination"
+  ],
+  "author": "David Peattie",
+  "license": "ISC"
+}

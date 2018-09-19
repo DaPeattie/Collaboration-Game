@@ -1,0 +1,56 @@
+/* CSS Document */
+
+#gameDiv{
+	width:500px
+}
+
+#gameCanvas0{
+	background-color:black;
+}
+#gameCanvas1{
+	pointer-events:none;
+	top:0;
+}
+
+
+.messageOptions{
+	height:50px;
+}
+
+
+.chatContainer{
+	width: 350px;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.messageBox{
+	height:200px;
+    border: 1px solid #ced4da;
+	border-top-left-radius: 17px;
+
+	overflow-x:hidden;
+	overflow-y:scroll;
+	background-color:white;
+}
+
+
+.message{
+	margin: 5px;
+	border-radius:5px;
+	background-color:#e6e6e6;
+	max-width: 70%;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.selfMessage{
+	background-color:#0D54E3 !important;
+	color:white !important;
+}
+
+
+.emoji{
+	margin-top: -.25em;
+	margin-bottom: 0 !important;
+}
